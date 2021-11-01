@@ -60,9 +60,9 @@ Once you clone the repository:
 
 You are ready to go!
 
-<!-- ### Live Demo Server
+### Live Demo Server
 
-- [Leaderboard Website](https://ramiaquista.github.io/leadboard-website/dist/) -->
+- Try it here!: [TodoList Website](https://mytodolist-react-website.herokuapp.com/)
 
 
 ## Authors
